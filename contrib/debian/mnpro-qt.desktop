@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Mnpro
+Comment=Mnpro P2P Cryptocurrency
+Comment[fr]=Mnpro, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Mnpro, eşten eşe kriptografik sanal para birimi
+Exec=mnpro-qt %u
+Terminal=false
+Type=Application
+Icon=mnpro128
+MimeType=x-scheme-handler/mnpro;
+Categories=Office;Finance;
